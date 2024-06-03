@@ -1,0 +1,35 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Audio Files
+*.wav
+*.mp3
+
+# Images
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Other
+output.mp3
+output.wav
+waveform.png
