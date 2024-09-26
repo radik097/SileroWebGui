@@ -9,7 +9,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/yourusername/tts-web-app.git
+   [ git clone https://github.com/yourusername/tts-web-app.git](https://github.com/radik097/SileroWebGui)
     cd tts-web-app
     ```
 
